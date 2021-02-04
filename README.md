@@ -1,2 +1,2 @@
 # asp.net-produtos-mvc
-# Projeto em ASP .NET com MVC
+# Projeto em ASP .NET utilizando arquitetura MVC e API(Swagger)
