@@ -14,7 +14,7 @@ namespace asp.net_produtos_mvc.Models
 
         public String Descricao { get; set; }
 
-        public List<Produto> Produtos { get; set; }
+        
 
 
 
